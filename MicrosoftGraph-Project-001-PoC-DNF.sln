@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CBA.SOE.ConsoleApp", "GraphClient\CBA.SOE.ConsoleApp.csproj", "{E252342F-2D82-4EC1-BC94-842CEF1C7803}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CBA.SOE.GraphApi", "GraphApi\CBA.SOE.GraphApi.csproj", "{2DBAFCE9-0C5D-499F-BDC6-F68E0B2AE657}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E252342F-2D82-4EC1-BC94-842CEF1C7803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E252342F-2D82-4EC1-BC94-842CEF1C7803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E252342F-2D82-4EC1-BC94-842CEF1C7803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E252342F-2D82-4EC1-BC94-842CEF1C7803}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DBAFCE9-0C5D-499F-BDC6-F68E0B2AE657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DBAFCE9-0C5D-499F-BDC6-F68E0B2AE657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DBAFCE9-0C5D-499F-BDC6-F68E0B2AE657}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DBAFCE9-0C5D-499F-BDC6-F68E0B2AE657}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EF30779-A1FE-4929-AD0C-D8AE610050F8}
+	EndGlobalSection
+EndGlobal
